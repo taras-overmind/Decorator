@@ -1,4 +1,4 @@
-class ConcreteDecoratorB extends Decorator
+public class ConcreteDecoratorB extends Decorator
         {
 @Override
             public  void Operation()
