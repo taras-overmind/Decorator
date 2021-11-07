@@ -1,4 +1,4 @@
-abstract class Decorator extends Component
+public abstract class Decorator extends Component
         {
 protected Component component;
 
